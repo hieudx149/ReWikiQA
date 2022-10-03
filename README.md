@@ -1,2 +1,4 @@
 # RetrievalWikiQA
-Semantic Search Models For Retrieval
+Retrieve passages relevant to query from Wikipedia
+
+### Craw corpus from Wikipedia
